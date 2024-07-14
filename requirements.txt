@@ -1,0 +1,6 @@
+sentencepiece
+streamlit
+transformers
+torch
+sacremoses
+pip
